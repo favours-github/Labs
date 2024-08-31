@@ -1,5 +1,5 @@
 # Labs
-For my Projects
+For my Project ( Creating a 2-tier Amazon VPC using Terraform )
 
 What is VPC?
 VPC stands for Virtual Private Cloud.
